@@ -1,0 +1,2 @@
+Plotted to '/Users/ekuabedua/Desktop/VSCODE/Greenhouse Shield/greenhouse-shield/KiCad Files.plt'.
+Info: Done.
